@@ -35,19 +35,19 @@
 
 ```json
 {
-    language:   {
-        Phases :    [{
-            title,
-            description,
-            steps: [{
-                title,
-                description,
-                notes,
-                experience,
-                definitions,
-                tips,
-                learn more,
-                worth browsing
+    "language":   {
+        "Phases" :    [{
+            "title",
+            "description",
+            "steps": [{
+                "title",
+                "description",
+                "notes",
+                "experience",
+                "definitions",
+                "tips",
+                "learn more",
+                "worth browsing"
             }]
         }]
     }
