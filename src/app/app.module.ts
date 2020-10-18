@@ -17,7 +17,7 @@ import { TranslocoRootModule } from './transloco/transloco-root.module';
     BrowserModule,
     AppRoutingModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
     HttpClientModule,
     TranslocoRootModule
   ],
