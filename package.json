@@ -8,8 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-prod": "ng build --prod",
-    "start-pwa": "http-server -p 8080 -c-1 dist/oxfam-hria"
+    "build:prod": "ng build --prod",
+    "start:pwa": "http-server -p 8080 -c-1 dist/oxfam-hria"
   },
   "private": true,
   "dependencies": {
